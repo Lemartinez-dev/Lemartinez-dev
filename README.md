@@ -1,6 +1,6 @@
-<!-- Banner Barrido de Luz -->
+<!-- Banner superior animado -->
 <div align="center">
-  <img width="100%" src="https://svg-banners.vercel.app/api?type=luminance&text1=LUIS%20ENRIQUE%20MART%C3%8DNEZ&text2=Python%20%E2%80%A2%20JavaScript%20%E2%80%A2%20Full-Stack%20Developer&width=900&height=200" alt="Banner Luminance" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=200&section=header&text=Luis%20Enrique%20Mart%C3%ADnez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20de%20Software%20Full-Stack&descSize=18&descAlignY=60&animation=fadeIn" alt="Banner Luis Enrique Martínez"/>
 </div>
 
 <!-- Texto animado tipo máquina de escribir -->
