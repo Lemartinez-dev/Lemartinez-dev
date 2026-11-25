@@ -1,8 +1,6 @@
-<!-- Banner Consola Animada -->
+<!-- Banner Cyberpunk Glitch -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=600&color=00FF9C&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=%5Broot%40lemartinez-dev%5D%3A~%24+.%2Finit_profile.sh;%3E+Luis+Enrique+Mart%C3%ADnez+%7C+Full-Stack+Developer;%3E+Python+%E2%80%A2+Flask+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;%3E+Status%3A+Building+Scalable+Web+Solutions..." alt="Terminal Animada" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:090d16,50:1e1b4b,100:ec4899&height=220&section=header&text=LUIS%20ENRIQUE%20MART%C3%8DNEZ&fontSize=42&fontColor=00f5d4&fontAlignY=40&desc=FULL-STACK%20SOFTWARE%20DEVELOPER&descSize=18&descColor=f8fafc&descAlignY=62&animation=glitch" alt="Banner Glitch" />
 </div>
 
 <!-- Texto animado tipo máquina de escribir -->
