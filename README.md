@@ -1,6 +1,6 @@
-<!-- Banner Cyberpunk Glitch -->
+<!-- Banner Ondas Líquidas en Movimiento -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:090d16,50:1e1b4b,100:ec4899&height=220&section=header&text=LUIS%20ENRIQUE%20MART%C3%8DNEZ&fontSize=42&fontColor=00f5d4&fontAlignY=40&desc=FULL-STACK%20SOFTWARE%20DEVELOPER&descSize=18&descColor=f8fafc&descAlignY=62&animation=glitch" alt="Banner Glitch" />
+  <img width="100%" src="https://svg-banners.vercel.app/api?type=origin&text1=Luis%20Enrique%20Mart%C3%ADnez&text2=Desarrollador%20de%20Software%20Full-Stack&width=900&height=220" alt="Banner Ondas Animadas" />
 </div>
 
 <!-- Texto animado tipo máquina de escribir -->
