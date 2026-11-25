@@ -29,7 +29,7 @@
 
 <table>
   <tr>
-    <td width="62%" valign="middle">
+    <td width="60%" valign="middle">
       <p>Soy <b>Luis Enrique Martínez</b>, desarrollador de software enfocado en crear soluciones web completas, desde el diseño de bases de datos y la lógica del servidor hasta interfaces modernas y responsivas.</p>
       <ul>
         <li>🚀 <b>Enfoque actual:</b> Desarrollo de plataformas de gestión empresarial (POS, sistemas administrativos) y aplicaciones web full-stack.</li>
@@ -38,8 +38,8 @@
         <li>🤝 <b>Abierto a colaborar</b> en proyectos web, APIs y herramientas de productividad.</li>
       </ul>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/developer-coding.gif" width="320" alt="Developer Coding" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="330" alt="Coding Setup" />
     </td>
   </tr>
 </table>
