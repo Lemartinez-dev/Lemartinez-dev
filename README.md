@@ -1,6 +1,6 @@
-<!-- Banner superior animado (Opción Venom) -->
+<!-- Banner superior animado (Opción Geométrica) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:090d16,50:1e1b4b,100:0284c7&height=210&section=header&text=Luis%20Enrique%20Mart%C3%ADnez&fontSize=42&fontColor=38BDF8&fontAlignY=40&desc=Desarrollador%20de%20Software%20Full-Stack&descSize=18&descColor=E2E8F0&descAlignY=62&animation=twinkling" alt="Banner Luis Enrique Martínez"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,60:0e7490,100:10b981&height=190&section=header&text=Luis%20Enrique%20Mart%C3%ADnez&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Backend%20%7C%20Frontend%20%7C%20Automatizaci%C3%B3n&descSize=17&descAlignY=65&animation=scaleIn" alt="Banner Luis Enrique Martínez"/>
 </div>
 
 <!-- Texto animado tipo máquina de escribir -->
