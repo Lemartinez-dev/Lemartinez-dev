@@ -44,11 +44,22 @@ Soy **Luis Enrique Martínez**, desarrollador de software enfocado en crear solu
 
 <div align="center">
 
-#### Lenguajes & Frontend
-<img src="https://skillicons.dev/icons?i=py,js,html,css,vite,tailwind&theme=dark" alt="Frontend y Lenguajes" />
+#### Lenguajes, Frameworks & DevOps (Animados)
+<p>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+</p>
 
-#### Backend, Bases de Datos & DevOps
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express,mysql,postgres,supabase,docker,git,github,vercel&theme=dark" alt="Backend y Herramientas" />
+#### Bases de Datos, Backend & Despliegue Complementario
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,express,postgres,supabase,html,css,vite,tailwind,git,vercel&theme=dark" alt="Herramientas complementarias" />
+</p>
 
 </div>
 
