@@ -1,6 +1,6 @@
-<!-- Banner superior animado (Opción Cápsula Neón) -->
+<!-- Banner estilo Terminal Animada -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:111827,50:312e81,100:6366f1&height=180&section=header&text=Luis%20Enrique%20Mart%C3%ADnez&fontSize=38&fontColor=A5B4FC&fontAlignY=42&desc=Software%20Developer%20%E2%80%A2%20Python%20%26%20Web&descSize=17&descColor=FFFFFF&descAlignY=66&animation=blinking" alt="Banner Luis Enrique Martínez"/>
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=38BDF8&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=150&lines=%3E_+%C2%A1Hola!+Soy+Luis+Enrique+Mart%C3%ADnez;Desarrollador+de+Software+Full-Stack+%7C+Python+%26+Web" alt="Terminal Banner" />
 </div>
 
 <!-- Texto animado tipo máquina de escribir -->
