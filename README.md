@@ -44,20 +44,66 @@ Soy **Luis Enrique Martínez**, desarrollador de software enfocado en crear solu
 
 <div align="center">
 
-#### Lenguajes & Frameworks (Animados)
+#### Lenguajes & Frontend
 <p>
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/python.gif" alt="Python" width="55" />
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/javascript.gif" alt="JavaScript" width="55" />
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/html.gif" alt="HTML5" width="55" />
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/css.gif" alt="CSS3" width="55" />
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/react.gif" alt="React" width="55" />
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/nodejs.gif" alt="Node.js" width="55" />
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/git.gif" alt="Git" width="55" />
+  <a href="https://www.python.org/" target="_blank" title="Python">
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+    <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" alt="TypeScript" />
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" title="CSS3">
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS3" />
+  </a>
+  <a href="https://react.dev/" target="_blank" title="React">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" title="Vite">
+    <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" alt="Vite" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" alt="Tailwind CSS" />
+  </a>
 </p>
 
-#### Backend, Bases de Datos & Despliegue
+#### Backend, Bases de Datos & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,express,mysql,postgres,supabase,docker,vite,tailwind,github,vercel&theme=dark" alt="Backend y Herramientas" />
+  <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
+    <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" alt="Flask" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" title="Express">
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" alt="Express" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL" />
+  </a>
+  <a href="https://supabase.com/" target="_blank" title="Supabase">
+    <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" alt="Supabase" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" />
+  </a>
+  <a href="https://github.com/" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" />
+  </a>
+  <a href="https://vercel.com/" target="_blank" title="Vercel">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Vercel" />
+  </a>
 </p>
 
 </div>
