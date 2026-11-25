@@ -25,7 +25,7 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+### Sobre mí
 
 <table>
   <tr>
@@ -46,7 +46,7 @@
 
 ---
 
-### 🛠️ Stack Tecnológico & Herramientas
+### Stack Tecnológico & Herramientas
 
 <div align="center">
 
@@ -115,7 +115,7 @@
 </div>
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 <table>
   <tr>
@@ -123,17 +123,26 @@
       <h3 align="center"><a href="https://github.com/Lemartinez-dev/OptimaPOS">OptimaPOS</a></h3>
       <p>Plataforma web modular de alto rendimiento diseñada para la gestión comercial integral, administración de Punto de Venta (POS), control de inventarios y auditoría operativa en tiempo real para comercios minoristas.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/POS-Sistema%20Comercial-0ea5e9?style=flat-square" />
-        <img src="https://img.shields.io/badge/Inventarios-Tiempo%20Real-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 18" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vite_5-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 5" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Node.js_18-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js 18" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare R2" />
+        <img src="https://img.shields.io/badge/HTML5_QR-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 QR" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Lemartinez-dev/MediCitas-IPS">MediCitas IPS</a></h3>
       <p>Sistema web full-stack de gestión de citas médicas que digitaliza el agendamiento para una IPS/EPS, eliminando procesos manuales, pérdida de información, cruces de horarios y demoras en la atención.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
     </td>
   </tr>
@@ -142,8 +151,9 @@
       <h3 align="center"><a href="https://github.com/Datasyslatam/Let-s-Swim">Let's Swim</a></h3>
       <p align="center">Aplicación web moderna y responsiva desarrollada para <b>Let's Swim</b>, escuela de natación infantil en Barranquilla. Presenta una interfaz dinámica enfocada en servicios, niveles de entrenamiento, modalidades y captación de nuevos estudiantes.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Frontend-Web%20Moderna-38bdf8?style=flat-square" />
-        <img src="https://img.shields.io/badge/Diseño-Responsive-8b5cf6?style=flat-square" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </p>
     </td>
   </tr>
@@ -151,7 +161,7 @@
 
 ---
 
-### 📊 Actividad & Estadísticas de GitHub
+### Actividad & Estadísticas de GitHub
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lemartinez-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" />
