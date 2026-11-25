@@ -1,6 +1,6 @@
-<!-- Banner estilo Terminal Animada -->
+<!-- Banner Cyberpunk Glitch -->
 <div align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=38BDF8&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=150&lines=%3E_+%C2%A1Hola!+Soy+Luis+Enrique+Mart%C3%ADnez;Desarrollador+de+Software+Full-Stack+%7C+Python+%26+Web" alt="Terminal Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:090d16,50:1e1b4b,100:ec4899&height=220&section=header&text=LUIS%20ENRIQUE%20MART%C3%8DNEZ&fontSize=42&fontColor=00f5d4&fontAlignY=40&desc=FULL-STACK%20SOFTWARE%20DEVELOPER&descSize=18&descColor=f8fafc&descAlignY=62&animation=glitch" alt="Banner Glitch" />
 </div>
 
 <!-- Texto animado tipo máquina de escribir -->
