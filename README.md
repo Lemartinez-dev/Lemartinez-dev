@@ -1,6 +1,6 @@
-<!-- Banner Ondas Líquidas en Movimiento -->
+<!-- Banner Barrido de Luz -->
 <div align="center">
-  <img width="100%" src="https://svg-banners.vercel.app/api?type=origin&text1=Luis%20Enrique%20Mart%C3%ADnez&text2=Desarrollador%20de%20Software%20Full-Stack&width=900&height=220" alt="Banner Ondas Animadas" />
+  <img width="100%" src="https://svg-banners.vercel.app/api?type=luminance&text1=LUIS%20ENRIQUE%20MART%C3%8DNEZ&text2=Python%20%E2%80%A2%20JavaScript%20%E2%80%A2%20Full-Stack%20Developer&width=900&height=200" alt="Banner Luminance" />
 </div>
 
 <!-- Texto animado tipo máquina de escribir -->
