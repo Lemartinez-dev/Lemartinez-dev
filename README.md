@@ -39,7 +39,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="330" alt="Coding Setup" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding Setup" />
     </td>
   </tr>
 </table>
