@@ -44,21 +44,20 @@ Soy **Luis Enrique Martínez**, desarrollador de software enfocado en crear solu
 
 <div align="center">
 
-#### Lenguajes, Frameworks & DevOps (Animados)
+#### Lenguajes & Frameworks (Animados)
 <p>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/python.gif" alt="Python" width="55" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/javascript.gif" alt="JavaScript" width="55" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/html.gif" alt="HTML5" width="55" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/css.gif" alt="CSS3" width="55" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/react.gif" alt="React" width="55" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/nodejs.gif" alt="Node.js" width="55" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/git.gif" alt="Git" width="55" />
 </p>
 
-#### Bases de Datos, Backend & Despliegue Complementario
+#### Backend, Bases de Datos & Despliegue
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,express,postgres,supabase,html,css,vite,tailwind,git,vercel&theme=dark" alt="Herramientas complementarias" />
+  <img src="https://skillicons.dev/icons?i=flask,express,mysql,postgres,supabase,docker,vite,tailwind,github,vercel&theme=dark" alt="Backend y Herramientas" />
 </p>
 
 </div>
