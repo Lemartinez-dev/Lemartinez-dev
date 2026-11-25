@@ -1,8 +1,6 @@
-<!-- Banner Consola Animada -->
+<!-- Banner Corte Diagonal + Twinkling -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=600&color=00FF9C&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=%5Broot%40lemartinez-dev%5D%3A~%24+.%2Finit_profile.sh;%3E+Luis+Enrique+Mart%C3%ADnez+%7C+Full-Stack+Developer;%3E+Python+%E2%80%A2+Flask+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;%3E+Status%3A+Building+Scalable+Web+Solutions..." alt="Terminal Animada" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:020617,45:0369a1,100:22d3ee&height=220&section=header&text=Luis%20Enrique%20Mart%C3%ADnez&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Arquitectura%20Web%20%7C%20Backend%20%7C%20Automatizaci%C3%B3n&descSize=18&descColor=bae6fd&descAlignY=58&animation=twinkling" alt="Banner Slice" />
 </div>
 
 <!-- Texto animado tipo máquina de escribir -->
