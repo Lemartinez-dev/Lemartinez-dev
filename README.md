@@ -1,6 +1,6 @@
 <!-- Banner superior animado -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=200&section=header&text=Luis%20Enrique%20Mart%C3%ADnez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20de%20Software%20Full-Stack&descSize=18&descAlignY=60&animation=fadeIn" alt="Banner Luis Enrique Martínez"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:020617,45:0369a1,100:22d3ee&height=210&section=header&text=Luis%20Enrique%20Mart%C3%ADnez&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Desarrollador%20de%20Software%20Full-Stack&descSize=18&descColor=bae6fd&descAlignY=58&animation=twinkling" alt="Banner Luis Enrique Martínez" />
 </div>
 
 <!-- Texto animado tipo máquina de escribir -->
@@ -29,17 +29,17 @@
 
 <table>
   <tr>
-    <td width="60%" valign="middle">
-      <p>Soy <b>Luis Enrique Martínez</b>, desarrollador de software enfocado en crear soluciones web completas, desde el diseño de bases de datos y la lógica del servidor hasta interfaces modernas y responsivas.</p>
+    <td width="62%" valign="middle">
+      <p>Soy <b>Luis Enrique Martínez</b>, desarrollador de software enfocado en la arquitectura y construcción de aplicaciones web full-stack, desde el modelado de bases de datos y la lógica del servidor hasta interfaces modernas y responsivas.</p>
       <ul>
-        <li>🚀 <b>Enfoque actual:</b> Desarrollo de plataformas de gestión empresarial (POS, sistemas administrativos) y aplicaciones web full-stack.</li>
-        <li>🧠 <b>Intereses técnicos:</b> Arquitecturas backend, contenerización con <b>Docker</b>, despliegue en la nube e integración de modelos de <b>IA</b>.</li>
-        <li>⚙️ <b>Filosofía:</b> Código limpio, modularidad y automatización de procesos reales.</li>
-        <li>🤝 <b>Abierto a colaborar</b> en proyectos web, APIs y herramientas de productividad.</li>
+        <li><b>Enfoque actual:</b> Desarrollo de plataformas de gestión empresarial (POS, sistemas administrativos) y aplicaciones web escalables.</li>
+        <li><b>Especialización técnica:</b> Arquitectura backend, contenerización con <b>Docker</b>, despliegue en la nube e integración de soluciones con <b>IA</b>.</li>
+        <li><b>Estándares de trabajo:</b> Código limpio, arquitectura modular y automatización de procesos operativos.</li>
+        <li><b>Colaboración:</b> Disponible para proyectos de desarrollo web, diseño de APIs y soluciones de software a medida.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding Setup" />
+    <td width="38%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="290" alt="Software Development" />
     </td>
   </tr>
 </table>
@@ -113,7 +113,6 @@
 </p>
 
 </div>
-
 ---
 
 ### 🚀 Proyectos Destacados
@@ -121,15 +120,15 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 <a href="https://github.com/Lemartinez-dev/OptimaPOS">OptimaPOS</a></h3>
-      <p>Plataforma web moderna, modular y de alto rendimiento diseñada para la gestión comercial integral, administración de Punto de Venta (POS), control de inventarios y auditoría operativa en tiempo real para negocios minoristas.</p>
+      <h3 align="center"><a href="https://github.com/Lemartinez-dev/OptimaPOS">OptimaPOS</a></h3>
+      <p>Plataforma web modular de alto rendimiento diseñada para la gestión comercial integral, administración de Punto de Venta (POS), control de inventarios y auditoría operativa en tiempo real para comercios minoristas.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/POS-Sistema%20Comercial-0ea5e9?style=flat-square" />
         <img src="https://img.shields.io/badge/Inventarios-Tiempo%20Real-10b981?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏥 <a href="https://github.com/Lemartinez-dev/MediCitas-IPS">MediCitas IPS</a></h3>
+      <h3 align="center"><a href="https://github.com/Lemartinez-dev/MediCitas-IPS">MediCitas IPS</a></h3>
       <p>Sistema web full-stack de gestión de citas médicas que digitaliza el agendamiento para una IPS/EPS, eliminando procesos manuales, pérdida de información, cruces de horarios y demoras en la atención.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -140,8 +139,8 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center">🏊‍♂️ <a href="https://github.com/Datasyslatam/Let-s-Swim">Let's Swim</a></h3>
-      <p align="center">Aplicación web moderna y responsive desarrollada para <b>Let's Swim</b>, escuela de natación infantil en Barranquilla. Presenta una landing page dinámica enfocada en servicios, niveles de entrenamiento, modalidades y captación de nuevos estudiantes.</p>
+      <h3 align="center"><a href="https://github.com/Datasyslatam/Let-s-Swim">Let's Swim</a></h3>
+      <p align="center">Aplicación web moderna y responsiva desarrollada para <b>Let's Swim</b>, escuela de natación infantil en Barranquilla. Presenta una interfaz dinámica enfocada en servicios, niveles de entrenamiento, modalidades y captación de nuevos estudiantes.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Frontend-Web%20Moderna-38bdf8?style=flat-square" />
         <img src="https://img.shields.io/badge/Diseño-Responsive-8b5cf6?style=flat-square" />
@@ -165,7 +164,7 @@
 
 <br/>
 
-<!-- Footer animado -->
+<!-- Footer -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e293b,100:0f172a&height=110&section=footer" alt="Footer" />
 </div>
