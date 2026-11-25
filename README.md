@@ -27,16 +27,22 @@
 
 ### 👨‍💻 Sobre mí
 
-<img align="right" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
-
-Soy **Luis Enrique Martínez**, desarrollador de software enfocado en crear soluciones web completas, desde el diseño de bases de datos y la lógica del servidor hasta interfaces modernas y responsivas.
-
-- 🚀 **Enfoque actual:** Desarrollo de plataformas de gestión empresarial (POS, sistemas administrativos) y aplicaciones web full-stack.
-- 🧠 **Intereses técnicos:** Arquitecturas backend, contenerización con **Docker**, despliegue en la nube e integración de modelos de **IA**.
-- ⚙️ **Filosofía:** Código limpio, modularidad y automatización de procesos reales.
-- 🤝 **Abierto a colaborar** en proyectos web, APIs y herramientas de productividad.
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td width="62%" valign="middle">
+      <p>Soy <b>Luis Enrique Martínez</b>, desarrollador de software enfocado en crear soluciones web completas, desde el diseño de bases de datos y la lógica del servidor hasta interfaces modernas y responsivas.</p>
+      <ul>
+        <li>🚀 <b>Enfoque actual:</b> Desarrollo de plataformas de gestión empresarial (POS, sistemas administrativos) y aplicaciones web full-stack.</li>
+        <li>🧠 <b>Intereses técnicos:</b> Arquitecturas backend, contenerización con <b>Docker</b>, despliegue en la nube e integración de modelos de <b>IA</b>.</li>
+        <li>⚙️ <b>Filosofía:</b> Código limpio, modularidad y automatización de procesos reales.</li>
+        <li>🤝 <b>Abierto a colaborar</b> en proyectos web, APIs y herramientas de productividad.</li>
+      </ul>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/developer-coding.gif" width="320" alt="Developer Coding" />
+    </td>
+  </tr>
+</table>
 
 ---
 
